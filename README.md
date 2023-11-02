@@ -3,7 +3,7 @@ Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任�
 
 ## 下载
 
-[v0.20.39 releases](https://github.com/cfwtf/clash_for_windows/releases)
+[v0.20.39 releases](https://github.com/ALTNT/clash_for_windows-bak/releases)
 
 
 获取地址：https://archive.org/download/clash_for_windows_pkg
